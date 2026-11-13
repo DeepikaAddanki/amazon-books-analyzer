@@ -1,0 +1,24 @@
+AMAZON BOOKS ANALYSIS REPORT
+============================
+
+Total Books: 10
+Average Rating: 4.69
+Average Price: ₹384.70
+
+HIGHEST RATED BOOK
+Harry Potter - 4.9
+
+MOST REVIEWED BOOK
+Harry Potter - 30000 reviews
+
+MOST EXPENSIVE BOOK
+Harry Potter - ₹599
+
+GENRE ANALYSIS
+           average_rating  average_price  total_reviews
+genre                                                  
+Biography            4.80          250.0          12000
+Fantasy              4.85          549.5          44000
+Fiction              4.60          289.5          29000
+Finance              4.70          359.5          42000
+Self Help            4.60          400.0          49000
